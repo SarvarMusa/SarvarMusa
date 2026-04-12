@@ -6,23 +6,38 @@ src="https://github.com/Sarvar55/Sarvar55/blob/main/assets/header.png"></div>
 </div>
 
 ```java
+import org.json.JSONObject;
+
 public class Sarvar {
+
     private final String name;
     private final String surname;
-    private final JSONObject education;
+    private final JSONObject profile;
 
-    public Sarvar(String name, String surname, JSONObject education) {
+    public Sarvar(String name, String surname, JSONObject profile) {
         this.name = name;
         this.surname = surname;
-        this.education = education;
+        this.profile = profile;
     }
 
-    public static void main(String...ideasForImprovment) {
-        JSONObject educationInfo = new JSONObject()
-                .put("university", "Süleyman Demirel University")
-                .put("class", 4);
+    public static void main(String... args) {
 
-        Sarvar sarvarInfo = new Sarvar("Sarvar", "Musazade", educationInfo);
+        JSONObject profile = new JSONObject()
+                .put("role", "Software Engineer")
+                .put("focus", "Java Backend Development")
+                .put("interests", new String[]{
+                        "Artificial Intelligence",
+                        "Startups",
+                        "System Design",
+                        "Scalable Backend Systems"
+                })
+                .put("mindset", "Creative Thinker")
+                .put("description", "Builder who connects AI ideas with real-world startup products")
+                .put("experienceLevel", "Graduate / Early Professional");
+
+        Sarvar sarvarInfo = new Sarvar("Sarvar", "Musazade", profile);
+
+        System.out.println(sarvarInfo.profile.toString(2));
     }
 }
 ```
