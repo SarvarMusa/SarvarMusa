@@ -45,7 +45,7 @@ Backend Engineer from Azerbaijan focused on designing reliable, scalable, produc
 
 **Infrastructure &amp; Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,maven,kafka,junit,mockito,aws" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,maven,kafka,aws" />
 
 <br/>
 
