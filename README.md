@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://sarvardev.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-karar.dev-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-sarvardev-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://medium.com/@sarvar55mszde">
