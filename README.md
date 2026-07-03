@@ -62,7 +62,7 @@ Users share decisions, reasoning, and regret level; the community votes and disc
 | **Frontend** | Next.js, React, TypeScript, Tailwind CSS, Zustand, Framer Motion |
 | **Infrastructure** | PostgreSQL, Redis, Kafka, Docker, Flyway, OpenTelemetry, Swagger, MinIO |
 
-[Repository](https://github.com/SarvarMusa/karar.dev) · [Live Demo](https://sarvardev.vercel.app)
+[Repository](https://github.com/SarvarMusa/karar.dev)
 
 A full-stack, production-grade application showcasing authentication, caching, event-driven messaging, observability, and clean backend architecture.
 
@@ -73,32 +73,41 @@ GPT-powered recipe generation with a secure, cached, and versioned backend.
 
 **Stack:** Java, Spring Boot, PostgreSQL, Redis, MyBatis, Liquibase, Swagger
 **Highlights:** GPT-powered generation · Redis caching · JWT auth · Liquibase migrations
+[Repository](https://github.com/SarvarMusa/karar.dev) 
+
+**Why it matters**
+
+Demonstrates AI integration, SQL optimization, secure authentication, and production-ready API design.
 
 ---
 
 ### Medium Clone — Full-Stack Blogging Platform
 **Stack:** Spring Boot, Spring Security, Redis, MySQL, Docker, Next.js
 **Highlights:** JWT + refresh tokens · Redis token blacklist · Cloudinary integration · AOP logging · Dockerized setup
+**Why it matters**
 
+Shows secure authentication, caching, clean architecture, and full-stack development.
+[Repository](https://github.com/SarvarMusa/Medium-Clone)
+Demo: https://cleanreading.vercel.app/
 ---
 
 ### GitDoctor — AI-Powered Git CLI Assistant
 **Stack:** TypeScript, LangChain, Google Gemini
 **Highlights:** AI-generated commit messages · Git workflow automation · CLI tooling
-
+[Repository](https://github.com/SarvarMusa/git-doctor)
 <br/>
 
 ## Current Focus
 
-Distributed Systems · Java Concurrency · JVM Internals · Advanced PostgreSQL · Apache Kafka · Redis · OpenTelemetry · System Design · Kubernetes
+Distributed Systems · Java Concurrency · JVM Internals · Advanced PostgreSQL · Apache Kafka · Redis · System Design · Kubernetes
 
 <br/>
 
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarvar55&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvar55&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SarvarMusa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarvarMusa&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
 </div>
 
 <br/>
