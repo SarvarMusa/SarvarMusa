@@ -3,9 +3,6 @@
 <img src="assets/header.png" alt="Header" width="100%" />
 
 # Hi 👋 I'm Sarvar Musazade
-
-### Backend Engineer passionate about building scalable Java applications, distributed systems, and production-ready backend solutions.
-
 <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Backend+Engineer;Java+%7C+Spring+Boot+Developer;Distributed+Systems+Enthusiast;Always+Learning+How+Things+Work+Internally" />
 </p>
