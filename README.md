@@ -8,22 +8,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=22C55E&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Java+%7C+Spring+Boot+%7C+PostgreSQL;Exploring+JVM+internals+%26+concurrency;Always+learning+how+things+work" />
 </p>
 
-# 🌍 Find Me Online
-
-**Portfolio**  
-https://sarvardev.vercel.app
-
-**LinkedIn**  
-https://linkedin.com/in/sarvar-musazade-603445212
-
-**Medium**  
-https://medium.com/@sarvar55mszde
-
-**Instagram (@the.code.architect)**  
-https://www.instagram.com/the.code.architect/
-
-**Email**  
-sarvar55mszde@gmail.com
+<p align="center">
+  <a href="mailto:sarvar55mszde@gmail.com">
+    <img src="https://img.shields.io/badge/-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sarvar-musazade-603445212">
+    <img src="https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://sarvardev.vercel.app">
+    <img src="https://img.shields.io/badge/-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@sarvar55mszde">
+    <img src="https://img.shields.io/badge/-12100E?style=flat&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/the.code.architect/">
+    <img src="https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
