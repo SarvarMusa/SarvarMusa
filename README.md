@@ -148,15 +148,15 @@ Demonstrates AI-powered developer tooling and command-line application developme
 </div>
 
 <br/>
+## Current Focus
 
-## 2026 Goals
-
-- [x] Master Java Concurrency
-- [x] Deep dive into JVM Internals
-- [ ] Build a distributed system from scratch
-- [ ] Contribute to open source
-- [ ] Master Kubernetes
-- [ ] Publish technical articles regularly
+- ☕ Java Concurrency & JVM Internals
+- 🌐 Distributed Systems
+- 🗄️ Advanced PostgreSQL
+- 📡 Apache Kafka & Event-Driven Architecture
+- 🔭 OpenTelemetry & Observability
+- ☸️ Kubernetes
+- ✍️ Technical Writing & Open Source
 
 <br/>
 
