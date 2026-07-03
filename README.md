@@ -49,60 +49,97 @@ Backend Engineer from Azerbaijan focused on designing reliable, scalable, produc
 
 <br/>
 
-## Featured Projects
+# 🚀 Featured Projects
 
-### karar.dev
-**Community platform for sharing life decisions and learning from others' experiences — "Stack Overflow for life decisions."**
+## 🌐 karar.dev
 
-Users share decisions, reasoning, and regret level; the community votes and discusses. Includes JWT auth, email verification, and image uploads via MinIO.
+**Community-driven platform for sharing life decisions and learning from other people's experiences.**
 
-| | |
-|---|---|
-| **Backend** | Java, Spring Boot, Spring Security, Spring Data JPA |
-| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, Zustand, Framer Motion |
-| **Infrastructure** | PostgreSQL, Redis, Kafka, Docker, Flyway, OpenTelemetry, Swagger, MinIO |
+### 🛠️ Tech Stack
 
-[Repository](https://github.com/SarvarMusa/karar.dev)
+**Backend:** Java, Spring Boot, Spring Security, Spring Data JPA
 
-A full-stack, production-grade application showcasing authentication, caching, event-driven messaging, observability, and clean backend architecture.
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS
 
----
+**Database:** PostgreSQL, Redis, MinIO
 
-### PalatePoet — AI Recipe &amp; Meal Planning API
-GPT-powered recipe generation with a secure, cached, and versioned backend.
+**Infrastructure:** Kafka, Docker, Flyway, OpenTelemetry, Swagger
 
-**Stack:** Java, Spring Boot, PostgreSQL, Redis, MyBatis, Liquibase, Swagger
-**Highlights:** GPT-powered generation · Redis caching · JWT auth · Liquibase migrations
-[Repository](https://github.com/SarvarMusa/karar.dev) 
+### 🔗 Repository
 
-**Why it matters**
+https://github.com/SarvarMusa/karar.dev
 
-Demonstrates AI integration, SQL optimization, secure authentication, and production-ready API design.
+### 💡 Why it matters
+
+Demonstrates authentication, caching, event-driven architecture, observability, and production-ready backend design.
 
 ---
 
-### Medium Clone — Full-Stack Blogging Platform
-**Stack:** Spring Boot, Spring Security, Redis, MySQL, Docker, Next.js
-**Highlights:** JWT + refresh tokens · Redis token blacklist · Cloudinary integration · AOP logging · Dockerized setup
-**Why it matters**
+## 🍽️ PalatePoet
 
-Shows secure authentication, caching, clean architecture, and full-stack development.
-[Repository](https://github.com/SarvarMusa/Medium-Clone)
-Demo: https://cleanreading.vercel.app/
+**AI-powered meal planning API that generates personalized recipes using available ingredients.**
+
+### 🛠️ Tech Stack
+
+**Backend:** Java, Spring Boot, Spring Security, MyBatis
+
+**Database:** PostgreSQL, Redis
+
+**Infrastructure:** Liquibase, Swagger, JWT
+
+### 🔗 Repository
+
+https://github.com/SarvarMusa/PalatePoet
+
+### 💡 Why it matters
+
+Showcases AI integration, secure REST APIs, Redis caching, and database versioning.
+
 ---
 
-### GitDoctor — AI-Powered Git CLI Assistant
-**Stack:** TypeScript, LangChain, Google Gemini
-**Highlights:** AI-generated commit messages · Git workflow automation · CLI tooling
-[Repository](https://github.com/SarvarMusa/git-doctor)
-<br/>
+## ✍️ Medium Clone
 
-## Current Focus
+**Full-stack blogging platform inspired by Medium.**
 
-Distributed Systems · Java Concurrency · JVM Internals · Advanced PostgreSQL · Apache Kafka · Redis · System Design · Kubernetes
+### 🛠️ Tech Stack
 
-<br/>
+**Backend:** Java, Spring Boot, Spring Security, Spring Data JPA
 
+**Frontend:** Next.js, TypeScript
+
+**Database:** MySQL, Redis
+
+**Infrastructure:** Docker, Cloudinary, JWT
+
+### 🔗 Repository
+
+https://github.com/SarvarMusa/Medium-Clone
+
+### 💡 Why it matters
+
+Highlights authentication, caching, Dockerized development, and clean backend architecture.
+
+---
+
+## 🤖 GitDoctor
+
+**AI-powered CLI tool that simplifies everyday Git workflows.**
+
+### 🛠️ Tech Stack
+
+**Language:** TypeScript
+
+**AI:** LangChain, Google Gemini
+
+**Platform:** Node.js CLI
+
+### 🔗 Repository
+
+https://github.com/SarvarMusa/GitDoctor
+
+### 💡 Why it matters
+
+Demonstrates AI-powered developer tooling and command-line application development.
 ## GitHub Stats
 
 <div align="center">
