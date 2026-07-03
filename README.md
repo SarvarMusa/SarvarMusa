@@ -148,7 +148,8 @@ Demonstrates AI-powered developer tooling and command-line application developme
 </div>
 
 <br/>
-## Current Focus
+
+ ## Current Focus
 
 - ☕ Java Concurrency & JVM Internals
 - 🌐 Distributed Systems
